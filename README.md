@@ -1,2 +1,2 @@
-#Hi, my name is I Wayan Natura Adnyana
-I am a fresh college boy, trying hard to be web developer
+#Hi, my name is <b>I Wayan Natura Adnyana</b><br>
+I am a <i>fresh college boy</i>, trying hard to be <i>web developer</i>
