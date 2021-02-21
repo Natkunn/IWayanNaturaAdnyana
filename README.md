@@ -4,6 +4,6 @@
 <h2>Project that i am proud of :🙌</h2>
 <ul>
   <li><a href="https://github.com/Natkunn/PembayaranSPP">Pembayaran SPP</li>
-  <li><a href="seputar-bola-id.web.app">Seputar Bola</li>
-  <li><a href="natkunn.wordpress.com">Natkun Wordpress Blog's</li>
+  <li><a href="https://seputar-bola-id.web.app">Seputar Bola</li>
+  <li><a href="https://natkunn.wordpress.com">Natkun Wordpress Blog's</li>
 </ul>
