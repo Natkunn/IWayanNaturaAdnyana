@@ -10,82 +10,146 @@
 </ul>
 -->
 
-<!-- Social Section -->
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+### Hi, my name is <i>I Wayan Natura Adnyana</i> 👋
 
-<p align="center">
-  <a href= "https://github.com/tallguyjenks/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/bryanjenks/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-  </a>
-  <a href= "https://twitter.com/tallguyjenks">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
-  </a>
-  <a href= "https://www.bryanjenks.dev">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/tallguyjenks">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
-  </a>
-  <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/>
-  </a>
-  <a href="https://www.twitch.tv/tallguyjenks">
-    <img src="https://img.icons8.com/material-outlined/24/689d6a/twitch.png"/>
-  </a>
-  <a href="https://orcid.org/0000-0002-9604-3069">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
-  </a>
-  <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
-  </a>
-  <a href="mailto:bryan@bryanjenks.dev">
-    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
-  </a>
-  <a href="https://medium.com/@tallguyjenks">
-    <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
-  </a>
-  <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
-    <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
-  </a>
+- I am a <i>fresh college boy</i>, trying hard to be a <i>web developer</i>💪
 
-  
+Some of my simple projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Natkunn&repo=SeputarBola-PusatInformasiBola)](https://github.com/Natkunn/SeputarBola-PusatInformasiBola)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Natkunn&repo=MYFOOD-PencariResepMasakan)](https://github.com/Natkunn/MYFOOD-PencariResepMasakan)
+
+<p> 
+📫  Born in Nara, Japan <img src="https://image.flaticon.com/icons/svg/197/197604.svg" width="13"/>
+<br>
+📌  Living in Bali, Indonesia <img src="https://image.flaticon.com/icons/svg/197/197559.svg" width="13"/>
 </p>
 
----
-  
-<h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
+<hr>
 
-<!-- YOUTUBE:START -->
-- [The Absolute State of [[Spaced Repetition]] In Obsidian | Anki, Plugins, Workflows, & More 🧠️](https://www.youtube.com/watch?v=OqVs1Sw-Ahg)
-- [Bryan Jenks AMA | Ask Me Anything | R, YouTube, ADHD, & More!](https://www.youtube.com/watch?v=pyyBgpCtFNs)
-- [Breaking: Obsidian Insiders Release 0.11.0 | Graph Cluster Styling & Persistent Folds!](https://www.youtube.com/watch?v=_gAe718BNUg)
-- [What I Love About WGU | My First Term & My University Workflow |](https://www.youtube.com/watch?v=V1T3hKYDrUs)
-- [How To Use Obsidian Remotely With GitHub Codespaces | FOAM | Dendron | Logseq |](https://www.youtube.com/watch?v=CaqhIoj8MWk)
-<!-- YOUTUBE:END -->
-
----
-
-<h3 align="center"><a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a> Latest Medium Articles <a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a></h3>
+## Follow Me
 
 
-<!-- ARTICLES:START -->
-- [Manage Your Entire R Code Base With TODOr](https://towardsdatascience.com/manage-your-entire-r-code-base-with-todor-76dcd7abad9?source=rss-32e452bd16bd------2)
-- [How I Put My Mind Under Version Control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5?source=rss-32e452bd16bd------2)
-- [The Patchwork Package In R](https://medium.com/analytics-vidhya/the-patchwork-package-in-r-9468e4a7cd29?source=rss-32e452bd16bd------2)
-<!-- ARTICLES:END -->
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/Natkunn/)
+[![Gmail Badge](https://img.shields.io/badge/-Natura538-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.natura538@gmail.com)](mailto:ing.natura538@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Natura-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natura-adn/)](https://https://www.linkedin.com/in/natura-adn/)
+[![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Natkun_ "Follow on Twitter")
 
----
+<hr>
 
-<h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
+## ⚡ Technologies
 
-<!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#38](https://github.com/tallguyjenks/fla.sh/issues/38) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-2. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
-3. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
-4. ❗️ Closed issue [#9](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/9) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
-5. 🗣 Commented on [#7](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/7) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
-<!--END_SECTION:activity-->
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<hr>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Natkunn&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natkunn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Natkunn)
+
+<hr>
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
+
+<!--
+**🐱 My Github Data** 
+
+> 🏆 3 Contributions in the Year 2021
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
+🌆 Daytime    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
+🌃 Evening    103 commits    ██████████████████░░░░░░░   74.1% 
+🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+Wednesday    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Thursday     25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Friday       24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
+Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
+
+<!--END_SECTION:waka-->
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+<!--
+**minoveaz/minoveaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
