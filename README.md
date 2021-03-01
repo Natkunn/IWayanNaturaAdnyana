@@ -135,7 +135,7 @@ Python                   1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <hr>
-  Readme.md Inspiration by <a href="github.com/minoveaz">minoveaz</a>
+  Readme.md Inspired by <a href="github.com/minoveaz">minoveaz</a>
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
