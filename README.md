@@ -32,8 +32,8 @@ Some of my simple projects:
 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/Natkunn/)
-[![Gmail Badge](https://img.shields.io/badge/-Natura538-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.natura538@gmail.com)](mailto:ing.natura538@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Natura-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natura-adn/)](https://https://www.linkedin.com/in/natura-adn/)
+[![Gmail Badge](https://img.shields.io/badge/-Natura538-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natura538@gmail.com)](mailto:natura538@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Natura-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natura-adn/)](https://www.linkedin.com/in/natura-adn/)
 [![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Natkun_ "Follow on Twitter")
 
 <hr>
