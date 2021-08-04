@@ -52,8 +52,8 @@ Some of my simple projects:
 
 <hr>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Natkunn&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natkunn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NaturaAdnyana&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaturaAdnyana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Natkunn)
 
