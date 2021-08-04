@@ -1,4 +1,4 @@
-<!-- <h1>Hi, my name is <i>I Wayan Natura Adnyana</i></h1>
+<!-- <h1>Hi, my name is <i>Natura Adnyana</i></h1>
 <p>I am a <i>fresh college boy</i>, trying hard to be a <i>web developer</i>💪</p>
 <hr>
 <h2>Project that i am proud of :🙌</h2>
