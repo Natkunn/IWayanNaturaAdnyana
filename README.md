@@ -16,9 +16,9 @@
 
 Some of my simple projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Natkunn&repo=SeputarBola-PusatInformasiBola)](https://github.com/Natkunn/SeputarBola-PusatInformasiBola)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NaturaAdnyana&repo=Selfmade-Linktree)](https://github.com/NaturaAdnyana/Selfmade-Likntree)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Natkunn&repo=MYFOOD-PencariResepMasakan)](https://github.com/Natkunn/MYFOOD-PencariResepMasakan)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NaturaAdnyana&repo=MYFOOD-PencariResepMasakan)](https://github.com/NaturaAdnyana/MYFOOD-PencariResepMasakan)
 
 <p> 
 📫  Born in Nara, Japan <img src="https://image.flaticon.com/icons/svg/197/197604.svg" width="13"/>
@@ -31,7 +31,7 @@ Some of my simple projects:
 ## Follow Me
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/Natkunn/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/NaturaAdnyana/)
 [![Gmail Badge](https://img.shields.io/badge/-natura538@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natura538@gmail.com)](mailto:natura538@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Natura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natura-adn/)](https://www.linkedin.com/in/natura-adn/)
 [![Twitter Badge](https://img.shields.io/badge/-@Natkun_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Natkun_ "Follow on Twitter")
