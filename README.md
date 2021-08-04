@@ -16,7 +16,7 @@
 
 Some of my simple projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NaturaAdnyana&repo=Selfmade-Linktree)](https://github.com/NaturaAdnyana/Selfmade-Likntree)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NaturaAdnyana&repo=Selfmade-Likntree)](https://github.com/NaturaAdnyana/Selfmade-Likntree)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NaturaAdnyana&repo=MYFOOD-PencariResepMasakan)](https://github.com/NaturaAdnyana/MYFOOD-PencariResepMasakan)
 
