@@ -10,7 +10,7 @@
 </ul>
 -->
 
-### Hi, my name is <i>I Wayan Natura Adnyana</i> 👋
+### Hi, my name is <i>Natura Adnyana</i> 👋
 
 - I am a <i>fresh college boy</i>, trying hard to be a <i>web developer</i>💪
 
