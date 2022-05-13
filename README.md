@@ -6,12 +6,14 @@
 📌  Living in Bali, Indonesia <img src="https://img.icons8.com/color/48/000000/indonesia-circular.png" width="13"/>
 </p>
 
+
 ## 🤝🏻 Follow Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NaturaAdnyana)](https://github.com/NaturaAdnyana/)
 [![Gmail Badge](https://img.shields.io/badge/-natura538@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natura538@gmail.com)](mailto:natura538@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Natura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natura-adnyana/)](https://www.linkedin.com/in/natura-adnyana/)
 [![Twitter Badge](https://img.shields.io/badge/-@Natkun_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Natkun_ "Follow on Twitter")
+
 
 ## ⚡ Technologies
 
