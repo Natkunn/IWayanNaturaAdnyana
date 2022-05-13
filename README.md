@@ -6,7 +6,7 @@
 📌  Living in Bali, Indonesia <img src="https://img.icons8.com/color/48/000000/indonesia-circular.png" width="13"/>
 </p>
 
-## Follow Me
+## 🤝🏻 Follow Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NaturaAdnyana)](https://github.com/NaturaAdnyana/)
 [![Gmail Badge](https://img.shields.io/badge/-natura538@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natura538@gmail.com)](mailto:natura538@gmail.com)
