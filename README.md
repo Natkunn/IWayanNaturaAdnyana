@@ -5,7 +5,7 @@
 <br>
 📌  Living in Bali, Indonesia <img src="https://img.icons8.com/color/48/000000/indonesia-circular.png" width="13"/>
 <br>
-    Come visit to my website <a target="_blank" rel="noreferrer noopener" href="https://naturaadnyana.com">here.</a>
+🌍  Come visit to my website <a target="_blank" rel="noreferrer noopener" href="https://naturaadnyana.com">here.</a>
 </p>
 
 
