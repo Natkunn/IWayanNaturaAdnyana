@@ -12,7 +12,7 @@
 ## 🤝🏻 Follow Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NaturaAdnyana)](https://github.com/NaturaAdnyana/)
-[![Gmail Badge](https://img.shields.io/badge/-natura538@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natura538@gmail.com)](mailto:natura538@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-me@naturaadnyana.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@naturaadnyana.com)](mailto:me@naturaadnyana.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Natura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natura-adnyana/)](https://www.linkedin.com/in/natura-adnyana/)
 [![Twitter Badge](https://img.shields.io/badge/-@Natkun_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Natkun_ "Follow on Twitter")
 
