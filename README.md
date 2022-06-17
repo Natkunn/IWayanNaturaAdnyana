@@ -1,4 +1,4 @@
-# HI, IT'S ME <i>NATURA ADNYANA</i> 👋
+# HI, IT'S ME <i>NATURA</i> 👋
 
 <p> 
 📫  Born in Nara, Japan <img src="https://img.icons8.com/color/48/000000/japan-circular.png" width="13"/>
