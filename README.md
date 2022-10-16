@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.jsdelivr.net/gh/NaturaAdnyana/NaturaAdnyana.github.io/src/assets/images/2022me.webp)](https://naturaadnyana.com)
 # HI, IT'S ME <i>NATURA</i> 👋
 
 <p> 
